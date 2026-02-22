@@ -51,5 +51,5 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 ## 👥 Team
 This project was successfully developed by master's students at Azerbaijan Technical University:
 * **Huseynli Murad** (Frontend UI/UX, Visualization & UI State Logic)
-* **Nijat Najafov** (ackend Simulation & Core Data Streams)
+* **Nijat Najafov** (Backend Simulation & Core Data Streams)
 * **Elmin Nuriyev** (Project Architecture Support)
