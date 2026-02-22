@@ -4,14 +4,13 @@
 
 @layer base {
   :root {
-    --border: 214.3 31.8% 91.4%; /* Добавьте это */
+    --border: 214.3 31.8% 91.4%;
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
-    /* Остальные переменные... */
   }
 
   * {
-    border-color: rgb(var(--border)); /* Замените @apply border-border */
+    border-color: rgb(var(--border));
   }
   body {
     background: rgb(var(--background));
@@ -23,14 +22,13 @@
 
 @layer base {
   :root {
-    --border: 214.3 31.8% 91.4%; /* Добавьте это */
+    --border: 214.3 31.8% 91.4%;
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
-    /* Остальные переменные... */
   }
 
   * {
-    border-color: rgb(var(--border)); /* Замените @apply border-border */
+    border-color: rgb(var(--border));
   }
   body {
     background: rgb(var(--background));
